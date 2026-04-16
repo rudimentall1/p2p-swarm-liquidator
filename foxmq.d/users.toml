@@ -1,0 +1,8 @@
+[users.agent_a]
+password-hash = "$argon2id$v=19$m=19456,t=2,p=1$L84KtX8FK5QdOI527X5L3Q$+1zfb1Ou/bqo2mqgJ1Np0WEe1U+35GaFvquZHQSgAMA"
+
+[users.agent_b]
+password-hash = "$argon2id$v=19$m=19456,t=2,p=1$ls1T23lqMNOJAA8mwfHvPA$x9nY5GcrlErUxgtMBtfhSp2ba7PRoJn+jwThdbCnS38"
+
+[users.agent_c]
+password-hash = "$argon2id$v=19$m=19456,t=2,p=1$qMvnhmt2QiqPE6/cvPb42w$erp2bcA46F2zjK0ksTp5YgIVBdANklV20MtqY89G6Cs"
